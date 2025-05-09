@@ -1,1 +1,1 @@
-# nigeria-agric-export
+Welcome! This Power BI project provides comprehensive insights into Nigeria's agricultural exports, visualizing data on export value, volume, profit, destination ports, and export countries from 2020 to 2023. The dashboard enables stakeholders to identify trends, high-performing products, top exporting companies, and strategic destinations.# nigeria-agric-export
